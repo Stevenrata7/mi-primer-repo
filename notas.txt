@@ -1,4 +1,2 @@
 Mi primera nota para la clase
 Esta es mi segunda linea
-Linea con un error grave git add notas.txt git commit -m Commit incorrecto de prueba
-Linea con un error grave
